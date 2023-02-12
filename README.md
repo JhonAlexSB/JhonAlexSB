@@ -1,22 +1,15 @@
-# Hi, I'm Jhon Alexander!👨‍💻 
-
-
-===
+ Hi, I'm Jhon Alexander! 👨‍💻 
 
 ## About me
-Ingeniero de software de [Uniremington](https://www.uniremington.edu.co/)
-Tecnologo en sistemas ADSI de [Sena](https://oferta.senasofiaplus.edu.co/sofia-oferta/inicio-sofia-plus.html)
+- Ingeniero de Sistemas de [Uniremington](https://www.uniremington.edu.co/)
+- Tecnologo en Sistemas ADSI de  [Sena](https://oferta.senasofiaplus.edu.co/sofia-oferta/inicio-sofia-plus.html)
 
----
 
-## How conctact me
-[linkeding]()
-[instagram]()
-[facebook]()
+## How conctact me  📫 
+[Linkeding](https://www.linkedin.com/in/jhon-salazar-benjumea-3a6537208)
+[Instagram](https://www.instagram.com/jhonalexsala117/)
 
----
-
-## Projects
+## Projects 🚧
 
 Ensamble de [keyboard](https://github.com/peej/for-science-keyboard)
 
