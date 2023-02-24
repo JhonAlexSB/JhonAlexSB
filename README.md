@@ -6,12 +6,14 @@
 
 
 ## How conctact me  📫 
-[Linkeding](https://www.linkedin.com/in/jhon-salazar-benjumea-3a6537208)
+[Linkedin](https://www.linkedin.com/in/jhon-salazar-benjumea-3a6537208)
 [Instagram](https://www.instagram.com/jhonalexsala117/)
+[Twitter](https://twitter.com/JhonAlexSB)
+[Telegram](https://t.me/JhonAlexSB)
+
 
 ## Projects 🚧
-
-Ensamble de [keyboard](https://github.com/peej/for-science-keyboard)
+Ensamble de [keyboard](https://github.com/JhonAlexSB/for-science-keyboard)
 
 <!--
 References
